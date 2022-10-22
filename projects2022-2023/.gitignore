@@ -1,0 +1,10 @@
+*.class
+target/
+*.iml
+.idea/
+.gradle/
+build/
+out/
+.attach_pid*
+.env
+output.txt
